@@ -1,5 +1,5 @@
 
-> Open this page at [https://mcguir3.github.io/flashingheart/](https://mcguir3.github.io/flashingheart/)
+> Open this page at [https://mcguir3.github.io/nametag/](https://mcguir3.github.io/nametag/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/mcguir3/flashingheart** and import
+* search for **https://github.com/mcguir3/nametag** and import
 
-## Edit this project ![Build status badge](https://github.com/mcguir3/flashingheart/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/mcguir3/nametag/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/mcguir3/flashingheart** and click import
+* paste **https://github.com/mcguir3/nametag** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/mcguir3/flashingheart/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/mcguir3/nametag/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
